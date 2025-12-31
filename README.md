@@ -40,10 +40,12 @@ Currently focusing on improving my frontend skills and data structures knowledge
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
-![GitHub Stats](https://gitmystat.vercel.app/api?username=anindyamutsuddi4&theme=dark)
-![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=anindyamutsuddi4&type=fire)
-![GitHub followers](https://img.shields.io/github/followers/anindyamutsuddi4?label=Followers&style=social)
-![GitHub repos](https://img.shields.io/github/repo-size/anindyamutsuddi4?label=Public%20Repos)
+<p align="center">
+  ![GitHub Followers](https://img.shields.io/github/followers/anindyamutsuddi4?label=Followers&style=social)
+  ![Public Repos](https://img.shields.io/github/public-repo-count/anindyamutsuddi4?label=Public%20Repos)
+  ![Top Language](https://img.shields.io/github/languages/top/anindyamutsuddi4?color=blue)
+</p>
+
 
 
 
