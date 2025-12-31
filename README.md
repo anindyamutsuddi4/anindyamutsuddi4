@@ -31,6 +31,15 @@ Currently focusing on improving my frontend skills and data structures knowledge
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+### 🔗 Connect With Me
+<p>
+  <a href="https://github.com/anindyamutsuddi4">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/anindya-mutsuddi-354123317?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 
 
