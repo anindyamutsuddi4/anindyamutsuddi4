@@ -1,15 +1,18 @@
 ![Banner](https://github.com/user-attachments/assets/a9337c11-ca3a-404c-b609-5f154bb87587)
 <h1 align="center">Anindya Mutsuddi</h1>
 <h3 align="center">CSE Undergraduate | Aspiring Web Developer</h3>
-### About Me
-I am a Computer Science student with a strong interest in web development and problem solving.  
-I enjoy building practical projects and learning modern technologies.  
-Currently focusing on improving my frontend skills and data structures knowledge.
-### 🚀 Current Activities
-- Exploring **Next.js**
-- Building a **music streaming website**
-- Practicing **data structures and algorithms**
-### 🛠 Skills
+
+## **👋 About Me**
+I am a **Computer Science student** with a strong interest in **web development** and **problem solving**.  
+I enjoy **building practical projects** and learning **modern technologies**.  
+Currently focusing on **frontend development** and **data structures & algorithms**.
+
+## **🚀 Current Activities**
+- 🌐 Exploring **Next.js**
+- 🎵 Building a **music streaming website**
+- 💻 Practicing **data structures and algorithms**
+
+## **🛠 Skills**
 
 **Frontend**
 <p>
