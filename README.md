@@ -40,7 +40,8 @@ Currently focusing on improving my frontend skills and data structures knowledge
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
-![GitHub Contributions](https://github.com/anindyamutsuddi4.png?tab=overview&from=2025-01-01&to=2025-12-31)
+![GitHub total contributions](https://img.shields.io/badge/contributions-Check%20your%20profile-blue)
+
 
 
 
