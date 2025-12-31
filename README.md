@@ -23,13 +23,14 @@ Currently focusing on improving my frontend skills and data structures knowledge
 
 **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" />
 </p>
 
 **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 
 
 
