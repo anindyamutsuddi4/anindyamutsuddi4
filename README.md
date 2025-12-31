@@ -3,7 +3,7 @@
 <h3 align="center">CSE Undergraduate | Aspiring Web Developer</h3>
 
 ## **👋 About Me**
-I am a **Computer Science student** with a strong interest in **web development** and **problem solving**.  
+I am currently pursuing a BSc in **Computer Science and Engineering** with a strong interest in **web development** and **problem solving**.  
 I enjoy **building practical projects** and learning **modern technologies**.  
 Currently focusing on **frontend development** and **data structures & algorithms**.
 
