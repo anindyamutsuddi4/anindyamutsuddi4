@@ -40,6 +40,16 @@ Currently focusing on improving my frontend skills and data structures knowledge
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
+### 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anindyamutsuddi4&show_icons=true&theme=dark" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindyamutsuddi4&layout=compact&theme=dark" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=anindyamutsuddi4&theme=dark" />
+</p>
 
 
 
